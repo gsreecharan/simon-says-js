@@ -72,7 +72,7 @@ function checkAns(idx){
         // }else{
         //     console.log("this is your new high score");
         // }
-        // reset();
+        reset();
     }
 }
 
