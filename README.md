@@ -36,7 +36,7 @@ This project is a web-based replica of the classic Simon Says memory game. It le
 ### Local Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/gsreecharan/simon-says-js.git](https://github.com/gsreecharan/simon-says-js.git)
+   git clone https://github.com/gsreecharan/simon-says-js.git
    cd simon-says-js
    ```
 2. Open `index.html` directly in any web browser, or launch it using the VS Code Live Server extension.
